@@ -11,7 +11,8 @@ Assistente de IA para Gamers. Aplicativo que auxilia nos jogos e dá dicas de es
 
 <br>
 
-##Demonstração <br>
+## ✨ Demonstração
+<br>
 <img src="https://github.com/user-attachments/assets/7c9cb464-0d6d-45e1-91c5-48d47d749509" alt="nlw-esports-min" width="500" />
 
 
